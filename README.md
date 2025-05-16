@@ -22,8 +22,15 @@
 
 ## 開発環境
 
-- HTML / CSS / JavaScript
+- HTML / CSS / 
 - Java / JSP / servlet
-- H2 Database / JDBC
 - Git / GitHub
 
+## 作業手順
+
+1. 管理者入力フォーム
+2. 入力内容送信完了
+3. 入力内容一覧
+
+## 画面遷移図(Canva)作成
+https://www.canva.com/design/DAGmFQtV5F0/vDOIM7uH5y3TbGOtKqVNNw/edit?utm_content=DAGmFQtV5F0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
